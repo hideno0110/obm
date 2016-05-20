@@ -7,7 +7,7 @@
 $trans1 = 0;
 $trans2 = 0;
 if( isset( $_GET['url'] ) ){
-  $apikey = '(Your API Key)';
+  $apikey = '72c1bc2cc8eda7d35034f3cfec2d013183f09194';
 
   $url = $_GET['url'];
   $alchemyurl = 'http://access.alchemyapi.com/calls/url/';
