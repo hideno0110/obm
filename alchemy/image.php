@@ -3,6 +3,7 @@
 <title>AlchemyAPI サンプル</title>
 </head>
 <body>
+ <h2>obm</h2>
 <?php
 $trans1 = 0;
 $trans2 = 0;
